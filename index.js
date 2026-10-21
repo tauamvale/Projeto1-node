@@ -3,7 +3,7 @@ const app = express(); //iniciando o express
 
 // rota inicial
 app.get("/", function(req,res){
-    res.send("<h1>Bem vindo à biblioteca!</h1>");
+    res.send("<h1>Bem vindo à biblioteca da melhor materia!</h1>");
 })
 
 // rota da lista de livros

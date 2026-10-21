@@ -1,7 +1,6 @@
 {
   "name": "projeto1-node",
   "version": "1.0.0",
-  "description": "",
   "homepage": "https://github.com/tauamvale/Projeto1-node#readme",
   "bugs": {
     "url": "https://github.com/tauamvale/Projeto1-node/issues"
@@ -19,5 +18,7 @@
   },
   "dependencies": {
     "express": "^5.3.0"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
